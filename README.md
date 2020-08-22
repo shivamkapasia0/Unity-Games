@@ -1,6 +1,7 @@
 # Welcome !
 
-Hi! I'm **Shivam Kapasia** and these are some simple games build using **unity game engine** as my hobby.
+Hi! I'm **Shivam Kapasia** and these are some simple games build using following softwares.
+<a target="_blank" href="https://www.linkedin.com/in/shivam-kapasia-8a485218a/"><img src="https://github.com/shivamkapasia0/Unity-Games/blob/master/etc/unity-mwu-black.png?raw=true" width="180" height="150"/></a><a target="_blank" href="https://www.linkedin.com/in/shivam-kapasia-8a485218a/"><img src="https://img.icons8.com/color/150/000000/blender-3d.png" width="150"/></a><a target="_blank" href="https://www.linkedin.com/in/shivam-kapasia-8a485218a/"><img src="https://img.icons8.com/color/158/000000/audacity.png" width="159"/></a><a target="_blank" href="https://www.linkedin.com/in/shivam-kapasia-8a485218a/"><img src="https://github.com/shivamkapasia0/Unity-Games/blob/master/etc/icon-rider.png?raw=true" width="150" height="150"/></a>
 
 
 
